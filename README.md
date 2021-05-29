@@ -12,4 +12,6 @@
   * Linux basic skills
   
 ## Contact :mailbox_with_mail:
+ * [My Web](https://RootSpyro.github.io/)
+ * [Instagram](https://www.instagram.com/rootspyro/?hl=es-la)
  * root.spyro@gmail.com
