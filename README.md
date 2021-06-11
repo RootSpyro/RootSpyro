@@ -6,12 +6,12 @@
   
 
 ## Skills :computer:
-  * Frontend development with Vue.js and Webpack
+  * Frontend development with Javascript Vanilla and Webpack (learning vue and react js)
   * Backend with Node.js and Express, API Rest, Django
   * Databases with MySQL and MongoDB
   * Linux basic skills
   
 ## Contact :mailbox_with_mail:
- * [My Web](https://RootSpyro.github.io/)
+ * [My Web](https://rootspyro.github.io/)
  * [Instagram](https://www.instagram.com/rootspyro/?hl=es-la)
- * root.spyro@gmail.com
+
