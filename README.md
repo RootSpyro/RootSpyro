@@ -1,7 +1,7 @@
 # root@spyro:~#
 :wave: Hi!, My name is Spyridon Mihalopoulos, I'm from Venezuela and I'm a Full Stack Developer. 
 <br>
-  * I'm student of Informatics Engineering
+  * I'm student of Computer Engineering
   * Currently learning with Platzi and other platforms
   
 
